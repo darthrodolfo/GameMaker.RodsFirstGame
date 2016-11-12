@@ -6,10 +6,25 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\sprite_alien_purple</sprite>
+    <sprite>sprites\sprite_alien_green</sprite>
+    <sprite>sprites\sprite_alien_red</sprite>
+    <sprite>sprites\sprite_player_ship</sprite>
+    <sprite>sprites\sprite_alien_laser</sprite>
+    <sprite>sprites\sprite_player_laser</sprite>
+    <sprite>sprites\sprite_alien_explosion</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\object_alien_purple</object>
+    <object>objects\object_alien_green</object>
+    <object>objects\object_alien_red</object>
+    <object>objects\object_player_ship</object>
+    <object>objects\object_alien_laser</object>
+    <object>objects\object_player_laser</object>
+    <object>objects\object_alien_explosion</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
